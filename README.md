@@ -14,3 +14,9 @@ sections.
     + User-Defined Data Types
     + Constructors for Variants
     + Pattern Matching on Constructors
+
+#### Section 2 [Oct 17 2014]
+    + Lambda Functions
+    + Higher Order Functions
+    + List Module - map, fold, filter etc
+    + More on User-Defined Structures
